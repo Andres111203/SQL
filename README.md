@@ -1,2 +1,2 @@
 # SQL
-Activities from SQL module
+In this repository will be host the SQL activities 
